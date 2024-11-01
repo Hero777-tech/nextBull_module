@@ -1,9 +1,9 @@
 import streamlit as st
 import json
 
-st.set_page_config(page_title="Indian Stock Market - Real-Time Chart", layout="wide")
+st.set_page_config(page_title="NextBull v0", layout="wide")
 
-st.title("Real-Time Indian Stock Market Chart")
+st.title("NextBull v0 terminal")
 
 
 @st.cache
